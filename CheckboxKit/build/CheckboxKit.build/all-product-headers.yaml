@@ -1,0 +1,38 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/kelleyricker/Library/Developer/Xcode/DerivedData/CheckboxKit-fajsujvzyktijqgvoihgxufxrmau/Build/Products/Debug-iphonesimulator/CheckboxKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Checkbox.h",
+          'external-contents': "/Users/kelleyricker/Documents/CheckboxKit/CheckboxKit/Checkbox.h"
+        },
+        {
+          'type': 'file',
+          'name': "CheckboxKit-Swift.h",
+          'external-contents': "/Users/kelleyricker/Library/Developer/Xcode/DerivedData/CheckboxKit-fajsujvzyktijqgvoihgxufxrmau/Build/Products/Debug-iphonesimulator/CheckboxKit.framework/Headers/CheckboxKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "CheckboxKit.h",
+          'external-contents': "/Users/kelleyricker/Documents/CheckboxKit/CheckboxKit/CheckboxKit.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/kelleyricker/Library/Developer/Xcode/DerivedData/CheckboxKit-fajsujvzyktijqgvoihgxufxrmau/Build/Products/Debug-iphonesimulator/CheckboxKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/kelleyricker/Documents/CheckboxKit/build/CheckboxKit.build/Debug-iphonesimulator/CheckboxKit.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

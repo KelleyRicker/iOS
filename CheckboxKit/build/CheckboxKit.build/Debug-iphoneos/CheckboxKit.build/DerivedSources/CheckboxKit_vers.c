@@ -1,0 +1,1 @@
+ const unsigned char CheckboxKitVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:CheckboxKit  PROJECT:CheckboxKit-1" "\n"; const double CheckboxKitVersionNumber __attribute__ ((used)) = (double)1.;

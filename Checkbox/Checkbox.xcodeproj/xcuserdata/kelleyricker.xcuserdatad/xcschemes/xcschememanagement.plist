@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Checkbox.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>CheckboxKit.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>UniversalLib.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8CB7B8091C4ECB6100C3F445</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CB7B8161C4ECC3800C3F445</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CB7B8201C4EE3FE00C3F445</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CB7B82D1C4EE49A00C3F445</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CB7B8641C5125B800C3F445</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
