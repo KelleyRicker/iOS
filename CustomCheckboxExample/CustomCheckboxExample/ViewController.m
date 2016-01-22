@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import "Checkbox.h"
+
 @interface ViewController (){
     Checkbox *cbox;
 }
