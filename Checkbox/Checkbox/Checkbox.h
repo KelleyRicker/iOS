@@ -8,22 +8,22 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-IB_DESIGNABLE
+
 @interface Checkbox : UIControl
 
 -(void)setChecked:(BOOL)isChecked;
 -(void)setEnabled:(BOOL)isEnabled;
 -(void)setText:(NSString *)stringValue;
 
-@property IBInspectable UIColor *checkColor;
-@property IBInspectable UIColor *boxFillColor;
-@property IBInspectable UIColor *boxBorderColor;
-@property IBInspectable UIFont *labelFont;
-@property IBInspectable UIColor *labelTextColor;
+@property UIColor *checkColor;
+@property UIColor *boxFillColor;
+@property UIColor *boxBorderColor;
+@property UIFont *labelFont;
+@property UIColor *labelTextColor;
 
-@property IBInspectable BOOL isEnabled;
-@property IBInspectable BOOL isChecked;
-@property IBInspectable BOOL showTextLabel;
-@property (nonatomic, strong) IBInspectable  NSString *text;
+@property BOOL isEnabled;
+@property BOOL isChecked;
+@property BOOL showTextLabel;
+@property (nonatomic, strong) NSString *text;
 
 @end
